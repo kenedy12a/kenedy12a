@@ -21,4 +21,4 @@ I am a **Junior Software Developer** with a passion for building clean web appli
 
 
 ### 📫 Let's Connect
-- 📧 Email: [cyizakenedy2024@gmail.com]
+- 📧 Email: cyizakenedy2024@gmail.com
