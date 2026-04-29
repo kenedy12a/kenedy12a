@@ -1,27 +1,28 @@
-# kenedyDev
-# Hi there, I'm [Izina ryawe]! 👋
+# Hi there, I'm KENEDY cyiza! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[Hano_shyiraho_username_yawe]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=kenedy12a&label=Profile%20views&color=444444&style=flat-square" alt="Views" />
 </p>
 
-I am a **Junior Software Developer** with a passion for building clean web applications and exploring the depths of cybersecurity. I enjoy bridging the gap between design and functional code.
+I am a **Junior Software Developer** currently pursuing **Level 4 Software Development (L4SWD)** at **IPRC Kigali**. I specialize in building enterprise-grade web applications with **Next.js**, **PHP**, and **MySQL**, while exploring the depths of **Cybersecurity**.
 
 ### 🚀 Technical Skills
 
 **Frontend & Design**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-eeeeee?style=social&logo=nextdotjs) ![React](https://img.shields.io/badge/React-eeeeee?style=social&logo=react) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-eeeeee?style=social&logo=tailwind-css) ![Three.js](https://img.shields.io/badge/Three.js-eeeeee?style=social&logo=threedotjs) ![Figma](https://img.shields.io/badge/Figma-eeeeee?style=social&logo=figma)
 
-**Backend & Tools**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-Linux-57b9d3?style=for-the-badge&logo=kali-linux&logoColor=white)
+**Backend & Databases**
+![PHP](https://img.shields.io/badge/PHP-eeeeee?style=social&logo=php) ![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=social&logo=mysql) ![NodeJS](https://img.shields.io/badge/Node.js-eeeeee?style=social&logo=nodedotjs) ![XAMPP](https://img.shields.io/badge/XAMPP-eeeeee?style=social&logo=xampp)
 
-**Other Foundations**
-*   **DSA:** Data Structures & Algorithms
-*   **Networking:** Basic Networking & Windows Server Administration
-*   **Creative:** Video Editing (Adobe Premiere, CapCut)
+**Security & Infrastructure**
+![Kali](https://img.shields.io/badge/Kali_Linux-eeeeee?style=social&logo=kalilinux) ![Windows Server](https://img.shields.io/badge/Windows_Server-eeeeee?style=social&logo=windowsserver) ![Git](https://img.shields.io/badge/Git-eeeeee?style=social&logo=git)
+
+### 📂 Featured Projects
+*   **ScaleFlow:** A SaaS-grade digital agency platform with 3D rendering and real-time chat.
+*   **N@TCOM SERVICES:** An IT talent ecosystem featuring an automated CV generator.
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Hano_shyiraho_username_yawe]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenedy12a&show_icons=true&theme=graywhite&bg_color=ffffff&hide_border=true)
 
 ### 📫 Let's Connect
 - 📧 Email: [Shyiraho Email yawe]
