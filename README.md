@@ -306,4 +306,4 @@ Last updated: 2025
 
 ## 🐍 Snake
 
-![snake](https://github.com/USERNAME/USERNAME/blob/output/github-snake.svg)
+![snake](https://github.com/kenedy12a/kenedy12a/blob/output/github-snake.svg)
