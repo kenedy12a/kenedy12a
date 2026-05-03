@@ -302,3 +302,8 @@ Last updated: 2025
 <br/>
 
 </div>
+
+
+## 🐍 Snake
+
+![snake](https://github.com/USERNAME/USERNAME/blob/output/github-snake.svg)
