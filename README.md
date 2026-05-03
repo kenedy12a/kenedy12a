@@ -1,18 +1,91 @@
 <div align="center">
 
-<h2>Kenedy Cyiza</h2>
-
-<p>Junior Full Stack Developer — learning backend systems, building real things, figuring it out as I go.</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=6E9EFF&center=true&vCenter=true&width=500&lines=Writing+cleaner+code+every+week.;Backend+systems+interest+me+most.;Still+learning.+Always+building." alt="Typing" />
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║       KENEDY CYIZA  ·  JUNIOR FULL STACK DEVELOPER           ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
 <br/>
 
-<img src="https://img.shields.io/badge/open%20to-collaboration-6E9EFF?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/currently-building-6E9EFF?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/based%20in-Rwanda-6E9EFF?style=flat-square&labelColor=0d1117" />
+```
+ _  _ ____ _  _ ____ ___  _   _    ____  _   _ _ ____  __
+ |_/  |___ |\ | |___ |  \  \_/     |     \_/ | |- _/  |__|
+ | \_ |___ | \| |___ |__/   |      |___   |  | |___|  |  |
+```
+
+<br/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Building+systems+that+scale.;Writing+code+with+intention.;Junior+Dev.+Elite+Mindset." alt="Typing SVG" />
+</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00FFB2?style=flat-square&labelColor=0a0a0a&color=00FFB2" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%2B%20SaaS-00FFB2?style=flat-square&labelColor=0a0a0a&color=00FFB2" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-Rwanda-00FFB2?style=flat-square&labelColor=0a0a0a&color=00FFB2" />
+</p>
+
+<br/>
+
+---
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `< IDENTITY />`
+
+</div>
+
+<br/>
+
+```yaml
+name     : Kenedy Cyiza
+role     : Junior Full Stack Developer
+mission  : Build scalable products that solve real problems
+direction: SaaS Architecture · Backend Systems · Product Engineering
+status   : Early career — moving fast, building intentionally
+```
+
+> Not chasing trends. Building foundations.
+> Every line of code is a step toward engineering products that matter.
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### `< TECH STACK />`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+<br/><br/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql&theme=dark" />
+
+<br/><br/>
+
+**Tooling & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux&theme=dark" />
 
 </div>
 
@@ -22,128 +95,56 @@
 
 <br/>
 
-```yaml
-name      : Kenedy Cyiza
-role      : Junior Full Stack Developer
-direction : Backend systems · SaaS products · API design
-learning  : Node.js patterns, database design, system thinking
-level     : beginner → intermediate, moving deliberately
-```
+<div align="center">
+
+### `< CURRENT BUILD />`
+
+</div>
 
 <br/>
 
----
-
-<br/>
-
-## Tech Stack
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,php&theme=dark" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-**Tools & Design**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" />
-
-<br/>
-
----
-
-<br/>
-
-## Engineering Foundation
-
-I've spent time studying data structures and algorithms — not to pass interviews, but because understanding how things work underneath makes me write better code.
-
-Knowing when to use a hash map over an array, or how a queue applies to a task system, changes how I approach problems. I'm not fast at it yet, but I think about structure before I write.
-
-```
-Currently practicing  : Arrays, linked lists, basic sorting, recursion
-Applying it in code   : Thinking about data shape before writing functions
-Goal                  : Make good structural decisions by default
-```
-
-<br/>
-
----
-
-<br/>
-
-## Systems & Infrastructure Basics
-
-I have basic exposure to networking and server administration — enough to understand what's happening beyond the application layer.
-
-**Networking**
-- Understand how HTTP/HTTPS requests work end to end
-- Familiar with DNS, IP addressing, ports, and basic protocols
-- Helps me debug connection issues and understand deployment better
-
-**Windows Server Administration**
-- Basic setup and configuration experience
-- Understand user management, permissions, and local network concepts
-- Not deep knowledge — a foundation worth building on
-
-This context makes me a more complete developer, even at a junior level. I know what I don't know, and I'm building toward it.
-
-<br/>
-
----
-
-<br/>
-
-## What I'm Building
-
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**ScaleFlow** — `In Progress`
+**◈ ScaleFlow**
+`[ IN PROGRESS ]`
 
-A SaaS-style productivity tool focused on workflow management. I'm building this to practice real backend patterns: auth, REST APIs, role-based access, and a clean frontend.
-
-It's rough right now. That's the point.
+A SaaS productivity platform concept focused on team workflow automation. Building the core architecture, auth system, and dashboard layer.
 
 `Node.js` · `React` · `MySQL` · `REST API`
 
 </td>
 <td width="50%" valign="top">
 
-**Portfolio Website** — `Building`
+**◈ Portfolio v1**
+`[ BUILDING ]`
 
-A personal site that represents my work and thinking. Designing it in Figma first, then building it clean in code.
+A personal developer portfolio designed as a product — not a resume. Clean, fast, intentional.
 
-No templates. Intentionally simple.
-
-`HTML` · `CSS` · `JavaScript` · `Figma`
+`HTML` · `CSS` · `JavaScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Backend Practice Systems** — `Learning`
+**◈ Backend Fundamentals Lab**
+`[ LEARNING ]`
 
-A private collection of small APIs, database schemas, and auth flows I build to understand patterns. Not meant to be shipped — meant to be understood.
+A private repository of structured experiments: REST APIs, auth flows, database design, and server-side logic.
 
-`Node.js` · `PHP` · `MySQL`
+`PHP` · `Node.js` · `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
-**DSA Practice Repository** — `Ongoing`
+**◈ React Component Library**
+`[ LEARNING ]`
 
-Documented solutions to algorithm problems with notes on my thinking. I write down why something works, not just that it works.
+Building reusable UI components from scratch to deeply understand React patterns before moving to advanced state management.
 
-`JavaScript`
+`React` · `CSS Modules`
 
 </td>
 </tr>
@@ -155,57 +156,43 @@ Documented solutions to algorithm problems with notes on my thinking. I write do
 
 <br/>
 
-## Current Focus
+<div align="center">
+
+### `< DEVELOPMENT FOCUS />`
+
+</div>
+
+<br/>
 
 ```
-This month I'm actively working on:
-
-  → REST API design — endpoints, error handling, response structure
-  → MySQL — schema design, relationships, writing useful queries
-  → Node.js — project structure, middleware, async patterns
-  → Git — branching, writing good commit messages, pull request habits
-  → React — getting more comfortable before going deeper
+ ACTIVELY IMPROVING                        NEXT ON THE ROADMAP
+ ──────────────────────────────────────    ────────────────────────────────────
+  ▸ REST API design & architecture          ▸ TypeScript
+  ▸ Authentication & session handling       ▸ PostgreSQL
+  ▸ Database schema design (MySQL)          ▸ Docker & containerization
+  ▸ React component patterns                ▸ System design fundamentals
+  ▸ Git workflows (branching, PRs)          ▸ Cloud deployment (AWS basics)
 ```
-
-Next up: TypeScript, PostgreSQL, basic Docker usage.
 
 <br/>
 
 ---
 
 <br/>
-
-## Reality
-
-This section exists because most GitHub profiles skip it.
-
-**What my actual learning looks like:**
-- I get stuck. Sometimes for hours. That's normal.
-- I refactor things I built last month because they weren't good enough.
-- Some days I make real progress. Some days I just read and absorb.
-- I don't pretend to understand things I don't. I write them down and come back.
-
-**What I'm still figuring out:**
-- How to structure larger backend projects cleanly
-- When to reach for a framework versus writing it myself
-- How to think in systems, not just in features
-
-**What I believe:**
-> The gap between where I am and where I want to be is just time and practice. I'm fine with that.
-
-<br/>
-
----
-
-<br/>
-
-## GitHub Activity
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=kenedy12a&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=6E9EFF&icon_color=6E9EFF&text_color=c9d1d9&border_color=21262d&count_private=true" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenedy12a&layout=compact&theme=github_dark&bg_color=0d1117&title_color=6E9EFF&text_color=c9d1d9&border_color=21262d" />
+### `< GITHUB SIGNAL />`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kenedy12a&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=00FFB2&icon_color=00FFB2&text_color=ffffff&border_color=1a1a1a&hide_border=false&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenedy12a&layout=compact&theme=radical&bg_color=0a0a0a&title_color=00FFB2&text_color=ffffff&border_color=1a1a1a" />
 
 </div>
 
@@ -217,14 +204,101 @@ This section exists because most GitHub profiles skip it.
 
 <div align="center">
 
-**Get in touch**
+### `< ENGINEERING PHILOSOPHY />`
 
-[![Email](https://img.shields.io/badge/Email-your@email.com-6E9EFF?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=6E9EFF)](cyizakenedy2024@email.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6E9EFF?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=6E9EFF)](https://linkedin.com/in/yourprofile)
+</div>
 
 <br/>
 
-<sub>Open to junior roles, project collaborations, and feedback from people who've been doing this longer than I have.</sub>
+<div align="center">
+
+*The section most developers skip — which is exactly why it's here.*
+
+</div>
+
+<br/>
+
+```
+  01  /  DEPTH OVER SPEED
+        Understand what you're building before you build it.
+        A slow foundation beats a fast house of cards.
+
+  02  /  SYSTEMS THINKING
+        Every feature is part of a system.
+        Write code that can grow, not just code that works today.
+
+  03  /  SHIP, THEN IMPROVE
+        Perfection is a trap. Shipping is a skill.
+        Version 1 exists. Version 2 is better. Keep going.
+
+  04  /  PRODUCTS, NOT JUST CODE
+        The goal is not to write functions.
+        The goal is to build things people rely on.
+
+  05  /  AMBITION AS INFRASTRUCTURE
+        Where you are now is not where you will be.
+        Trajectory matters more than position.
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### `< FUTURE VECTOR />`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+ 2025 ──────── 2026 ──────── 2027 ──────────────────▶
+   │              │               │
+ Core Skills   First SaaS     System Design
+ Solidified    Product Live   + Cloud Native
+               (ScaleFlow)
+```
+
+*Building toward: founding engineer-level skills — backend architecture, scalable systems, product-led development.*
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### `< CONNECT />`
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-00FFB2?style=flat-square&labelColor=0a0a0a&logo=gmail&logoColor=00FFB2)](Email:cyizakenedy@email.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FFB2?style=flat-square&labelColor=0a0a0a&logo=linkedin&logoColor=00FFB2)](https://linkedin.com/in/coming soon)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-555?style=flat-square&labelColor=0a0a0a)](https://github.com/kened-cyiza)
+
+<br/>
+
+```
+Open to: collaborations · feedback · junior roles · learning from seniors
+```
+
+<br/><br/>
+
+<sub>
+README crafted with intention — not generated from a template. <br/>
+Last updated: 2025
+</sub>
+
+<br/>
 
 </div>
