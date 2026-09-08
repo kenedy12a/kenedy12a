@@ -21,11 +21,11 @@
 </h1>
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-00FFB2?style=flat-square&labelColor=0a0a0a&color=00FFB2" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00FFB2?style=flat-square&labelColor=0a0a0a&color=black" />
   &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%2B%20SaaS-00FFB2?style=flat-square&labelColor=0a0a0a&color=00FFB2" />
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%2B%20SaaS-00FFB2?style=flat-square&labelColor=0a0a0a&color=black" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-Rwanda-00FFB2?style=flat-square&labelColor=0a0a0a&color=00FFB2" />
+  <img src="https://img.shields.io/badge/LOCATION-Rwanda-00FFB2?style=flat-square&labelColor=0a0a0a&color=black" />
 </p>
 
 <br/>
