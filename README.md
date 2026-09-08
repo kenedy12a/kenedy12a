@@ -212,7 +212,7 @@ Building reusable UI components from scratch to deeply understand React patterns
 
 <div align="center">
 
-*The section most developers skip — which is exactly why it's here.*
+*My Philosophy.*
 
 </div>
 
